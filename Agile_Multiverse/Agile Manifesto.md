@@ -1,6 +1,6 @@
 # Manifesto for Agile Software Development
 
-We are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
+We are **uncovering** better ways of developing software by doing it and helping others do it. Through this work we have come to value:  
 
 [[Individuals and interactions over processes and tools]]
 [[Working software over comprehensive documentation]]
@@ -38,4 +38,5 @@ At regular intervals, the team reflects on how to become more effective, then tu
 
 
 ### References
-1.  [[History of the Manifesto]]
+1. [Manifesto for Agile Software Development](https://agilemanifesto.org)
+2. [[History of the Manifesto]]
