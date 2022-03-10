@@ -1,7 +1,6 @@
 # Scrum Team
-#practice 
 
-A [[cross-functional]], self-managed (see: [[Self management]]), empowered (see: [[Empowerment]]) team of people with _no sub-teams or hierarchies_. 
+A [[cross-functional]], self-managed (see: [[Self management]]), empowered (see: [[Empowerment]]) team of people with _no sub-teams or hierarchies_. [^1]
 
 A Scrum Team consists on:
 - [[Developers (Scrum)]]
@@ -10,7 +9,6 @@ A Scrum Team consists on:
 
 The entire Scrum Team is _responsible for **all** product-related activities_. (e.g: stakeholder collaboration, verification, maintenance, operation, experimentation, research and development... anything else that might be required.)
 
-The entire Scrum Team is accountable for creating a valuable, useful [[Increment]] every [[Sprint]].
+The entire Scrum Team is accountable for creating a useful [[Increment of value]]  every [[Sprint]].
 
-### References
-1. [Scrum Team](https://scrumguides.org/scrum-guide.html#scrum-team)
+[^1]:[Scrum Team](https://scrumguides.org/scrum-guide.html#scrum-team)

@@ -3,3 +3,4 @@
 - [[Agile Manifesto]]
 - [[Scrum]]
 	- [[Scrum values]]
+	- [[Scrum Team]]

@@ -1,7 +1,6 @@
 # lean thinking
 #WIP 
 
-Reduces waste and focuses on the essentials.
+Reduces waste and focuses on the essentials [^1]
 
-### References
-1. [Scrum Theory](https://scrumguides.org/scrum-guide.html#scrum-theory)
+[^1]: [Scrum Theory](https://scrumguides.org/scrum-guide.html#scrum-theory)

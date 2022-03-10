@@ -1,8 +1,7 @@
 # Respect
 #values
 
-Everyone has due regard for each other to be capable, independent people.
+Everyone has due regard for each other to be capable, independent people[^1].
 
 
-### References
-1. [Scrum Values](https://scrumguides.org/scrum-guide.html#scrum-values)
+[^1]: [Scrum Values](https://scrumguides.org/scrum-guide.html#scrum-values)

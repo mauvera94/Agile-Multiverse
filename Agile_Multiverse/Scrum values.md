@@ -1,7 +1,7 @@
 # Scrum values
 #values
 
-Values give direction to the [[Scrum Team]] with regard to their work, actions, and behavior:
+Values give direction to the [[Scrum Team]] with regard to their work, actions, and behavior[^1]:
 
 - [[Commitment]]
 - [[Focus]]
@@ -9,5 +9,4 @@ Values give direction to the [[Scrum Team]] with regard to their work, actions, 
 - [[Respect]]
 - [[Courage]]
 
-### References
-1. [Scrum Values](https://scrumguides.org/scrum-guide.html#scrum-values)
+[^1]:  [Scrum Values](https://scrumguides.org/scrum-guide.html#scrum-values)

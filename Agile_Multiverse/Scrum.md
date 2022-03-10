@@ -1,7 +1,7 @@
 # Scrum
-#WIP 
+#practice 
 
-Scrum is a _lightweight framework_ first published in 1995. Developed by Ken Schwaber & Jeff Sutherland (Both co-authors of the [[Agile Manifesto]].
+Scrum is a _lightweight framework_[^1] first published in 1995. Developed by Ken Schwaber & Jeff Sutherland (Both co-authors of the [[Agile Manifesto]][^2].
 
 Scrum was founded on [[empiricism]] and [[lean thinking]].
 
@@ -14,5 +14,5 @@ Scrum guides the relationships and interactions:
 - The [[Scrum Team]] and its [[stakeholders]] inspect the results and adjust for the next [[Sprint]].
 
 
-### References
-1. [Scrum Guide](https://scrumguides.org/scrum-guide.html)
+[^1]: [Scrum Guide](https://scrumguides.org/scrum-guide.html)
+[^2]: [About the authors](https://agilemanifesto.org/authors.html)
