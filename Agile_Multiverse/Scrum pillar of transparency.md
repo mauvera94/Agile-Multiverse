@@ -1,5 +1,4 @@
 # Scrum pillar of transparency
-#WIP 
 
 **Process and work** must be _visible_ to those performing and receiving the work.
 
@@ -9,3 +8,4 @@ Transparency enables [[Scrum pillar of inspection]]
 
 ### References
 1. [[empiricism]]
+2. [Scrum Theory](https://scrumguides.org/scrum-guide.html#scrum-theory)

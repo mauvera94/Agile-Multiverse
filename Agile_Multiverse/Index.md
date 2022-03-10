@@ -1,5 +1,5 @@
 ## Current list of topics in the multiverse
 
-- The Agile Manifesto
-
+- [[Agile Manifesto]]
 - [[Scrum]]
+	- [[Scrum values]]

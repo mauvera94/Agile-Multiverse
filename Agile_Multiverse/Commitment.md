@@ -1,7 +1,7 @@
 # Commitment
-#WIP 
+#values
 
-The team **Commits** to achieving its goals and to supporting each other.
+The [[Scrum Team]] **Commits** to achieving its goals and to supporting each other.
 
 ### References
-1. 
+1. [Scrum Values](https://scrumguides.org/scrum-guide.html#scrum-values)

@@ -4,4 +4,4 @@
 
 
 ### References
-1. 
+1. [Scrum Master](https://scrumguides.org/scrum-guide.html#scrum-master)

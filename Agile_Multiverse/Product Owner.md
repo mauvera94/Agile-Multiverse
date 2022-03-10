@@ -4,4 +4,4 @@
 
 
 ### References
-1. 
+1. [Product Owner](https://scrumguides.org/scrum-guide.html#product-owner)
