@@ -15,5 +15,6 @@ The Product Owner may represent the needs of many [[stakeholders]] in the (items
 
 The entire organization must respect the decisions of the Product Owner (See: [[Empowerment]]). These are visible in the content and ordering of the [[Product Backlog]], and through the inspectable [[Increment of value]] at the [[Sprint Review]].
 
+Only the Product Owner has the authority to cancel a [[Sprint]] if the [[Sprint Goal]] becomes obsolete.
 
 [^1]:[Product Owner](https://scrumguides.org/scrum-guide.html#product-owner)

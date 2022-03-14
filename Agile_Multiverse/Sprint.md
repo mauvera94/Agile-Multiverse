@@ -1,7 +1,39 @@
-# Sprint
+# Sprint [^1]
 #WIP 
 
-Scrum combines four formal events for inspection and adaptation within a containing event, the Sprint
+A sprint (also known as _iteration_) is a [[time-box]]ed effort: A fixed length time for achieve a [[Sprint Goal]], of one month or less (Usually 2 weeks).
 
-### References
-1. 
+They start immediately after the conclusion of the previous Sprint.
+
+All the work necessary to achieve the [[Product Goal]] happen inside Sprints, including (the four formal events for inspection ([[Scrum pillar of inspection]]) and adaptation ([[Scrum pillar of adaptation]])):
+
+- [[Sprint Planning]]
+- [[Daily Scrum]]s
+- [[Sprint Review]]
+- [[Sprint Retrospective]]
+
+
+During the Sprint:
+- No changes are made that would endanger the [[Sprint Goal]]
+- Quality does not decrease
+- The [[Product Backlog]] is refined as needed
+- [[Scope]] ([[Sprint Backlog]]) may be clarified and renegotiated with the [[Product Owner]] as more is learned
+
+
+The smaller time frame of Sprints aides on: 
+- The [[Sprint Goal]] stay valid 
+- Decrease [[complexity]]
+- Mitigate [[risk]]
+- Generate more learning cycles
+- Limit [[risk]] of cost and effort 
+
+Each Sprint may be considered a short project (Unlike [[traditional projects]], Sprints have a fixed [[time]] and [[cost]], while the [[scope]] is variable).
+
+Various practices exist to forecast progress (these do not replace the importance of [[empiricism]]), like:
+- [[Burn-down chart]]
+- [[Burn-up chart]]
+- [[Cumulative flow diagram]]
+
+The [[Product Owner]] could cancel a Sprint if the [[Sprint Goal]] becomes obsolete.
+
+[^1]: [The Sprint](https://scrumguides.org/scrum-guide.html#the-sprint)
