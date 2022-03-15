@@ -5,3 +5,4 @@
 	- [[Scrum values]]
 	- [[Scrum Team]]
 	- [[Scrum events]]
+	- [[Scrum artifacts]]
