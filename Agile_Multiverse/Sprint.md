@@ -27,7 +27,7 @@ The smaller time frame of Sprints aides on:
 - Generate more learning cycles
 - Limit [[risk]] of cost and effort 
 
-Each Sprint may be considered a short project (Unlike [[traditional projects]], Sprints have a fixed [[time]] and [[cost]], while the [[scope]] is variable).
+Each Sprint may be considered a short _complete_ project (Unlike [[traditional projects]], Sprints have a fixed [[time]] and [[cost]], while the [[scope]] is variable). From planning to deployment, under no circumstances sprints should be consider as _project phases_, and have multiple sprints to do different activities.
 
 Various practices exist to forecast progress (these do not replace the importance of [[empiricism]]), like:
 - [[Burn-down chart]]
