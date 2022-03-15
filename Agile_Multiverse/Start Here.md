@@ -10,24 +10,28 @@ These notes have the goal to understand these invisible connections. I’m shari
 
 👋 Mau ([email](mailto:multiverse@mickeymau.com), [LinkedIn](https://www.linkedin.com/in/mauvera/), [main personal site](https://www.mauvera.co/))
 
-## Caveats
-1. Just as Agile products, this new way to see Agile is not intended as a one-time only project, but as a continous and evolving effort. Adding new information, connections and maintaining the multiverse.
-2. Essentially, these notes are *written for me*. I'm sharing them here in the interest sharing knowledge. If they add value to someone else from reading them, it's a bonus.
-3. They are not comprehensive set of insights  around any topic. They are just a collection of what I found in that moment.
-4. Credit where credit is due, I am standing on the shoulders of giants and I'll do my best to always link to the primary sources I use.
-
 # How to navigate
-As mentioned, most of the topics are connected in many ways, so there is not a linear way to consume the information, it’s more a choose your own adventure kind of learning. So just go at a topic and enjoy wherever your wind blows.
+As mentioned, most of the topics are connected in many ways, so there is not a linear way to consume the information, it’s more a _choose your own adventure_ kind of learning. So just go at a topic and enjoy wherever your wind blows.
+
+Unlike a traditional wiki, this particular vault holds _backlinks_, which are the other pages that reference the page you are on. At the bottom of any page look for the section **LINKS TO THIS PAGE** and see the invisible connections between topics (Or if you are a more visual learner, you can always use the graph view at the left).
 
 ## Index
 Want to dive in head first? Maybe use this index:
 ![[Index#Current list of topics in the multiverse]]
 
+## Caveats
+1. Just as Agile products, this new way to see Agile is not intended as a one-time only project, but as a continuous and evolving effort. Adding new information, connections and maintaining the multiverse. _The multiverse will never be completed. It will continue to grow as long as there is information left in the world_.
+2. Essentially, these notes are **written for me, by me**. They reflect my environment, context, bias, culture, interests, mental models, filters and **should not be confused as verbatim/summary of the primary sources** I'm sharing them here in the interest sharing knowledge. If they add value to someone else from reading them, it's a bonus.
+3. They are not comprehensive set of insights  around any topic. They are just a collection of what I found in that moment.
+4. Credit where credit is due, I am standing on the shoulders of giants and I'll do my best to always link to the primary sources I use. If you want to learn that topic, I urge you to use those resources.
+
+
 ## Board
-You can check out [my Trello Board](https://trello.com/b/k8kGahOo/agile-multiverse) and even vote on the upcomming topics. 
+You can check out [my Trello Board](https://trello.com/b/k8kGahOo/agile-multiverse) and even vote on the upcoming topics. 
 
 ## Git
-If you found mistakes, you can contribute to this multiverse here: https://github.com/mauvera94/Agile-Multiverse
+If you found mistakes, you can contribute to this multiverse by [Opening an issue](https://github.com/mauvera94/Agile-Multiverse/issues)
+Or if you want to branch or even download the vault you can do it in the [GitHub repo](https://github.com/mauvera94/Agile-Multiverse)
 
 ## Organization
 These are the tags I'll be using to create some convention:

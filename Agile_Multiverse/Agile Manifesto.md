@@ -34,7 +34,7 @@ Continuous attention to **technical excellence and good design** enhances agilit
 
 The best architectures, requirements, and designs emerge from **self-organizing teams**
 
-_At regular intervals_, the team **reflects on how to become more effective**, then tunes and adjusts its behavior accordingly
+[[At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly]]
 
 
 [^1]: [Manifesto for Agile Software Development](https://agilemanifesto.org)

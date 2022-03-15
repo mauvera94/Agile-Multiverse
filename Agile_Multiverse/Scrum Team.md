@@ -7,7 +7,7 @@ A Scrum Team consists on:
 - _One_ [[Product Owner]]
 - _One_ [[Scrum Master]]
 
-The entire Scrum Team is _responsible for **all** product-related activities_. (e.g: stakeholder collaboration, verification, maintenance, operation, experimentation, research and development... anything else that might be required.)
+The entire Scrum Team is _responsible for **all** product-related activities_. (e.g: [[stakeholders]] collaboration, verification, maintenance, operation, experimentation, research and development... anything else that might be required.)
 
 The entire Scrum Team is accountable for creating a useful [[Increment of value]]  every [[Sprint]].
 

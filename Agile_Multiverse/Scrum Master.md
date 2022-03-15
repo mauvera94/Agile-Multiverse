@@ -9,14 +9,14 @@ Also, accountable for the [[Scrum Team]]’s _effectiveness_. By enabling them t
 ### Serving the [[Scrum Team]]
 - Coaching in [[self-management ]]and cross-functionality (See: [[cross-functional]])
 - Helping [[focus]] on creating high-value [[Increment of value]] that meet the [[Definition of Done]]
-- Causing the removal/solving [[impediments]] to the [[Scrum Team]]’s progress
-- Ensuring that all [[Scrum events]] take place and are positive, productive, and kept within the [[timebox]]
+- Causing the removal/solving [[impediments]] to the [[Scrum Team]]’s progress (If exist, the Scrum Master is the owner of the [[Impediment board]])
+- Ensuring that all [[Scrum events]] take place and are positive, productive, and kept within the [[time-box]]
 
 ## Serving the [[Product Owner]]
 - Helping find techniques for effective [[Product Goal]] definition and [[Product Backlog]] management
 - Helping the [[Scrum Team]] understand the need for clear and concise [[Product Backlog]] items
 - Helping establish empirical (See: [[empiricism]]) product planning for a complex (See: [[Complex systems]]) environment
-- Facilitating (See: [[Facilitation]]) [[stakeholder]] collaboration as requested or needed
+- Facilitating (See: [[Facilitation]]) [[stakeholders]] collaboration as requested or needed
 
 
 ### Serving the organization
