@@ -17,7 +17,7 @@ These notes have the goal to understand these invisible connections. I’m shari
 4. Credit where credit is due, I am standing on the shoulders of giants and I'll do my best to always link to the primary sources I use.
 
 # How to navigate
-As mentioned, most of the topics are connected in many ways, so there is not a linear way to consume the information, so just go at a topic and enjoy wherever your wind blows.
+As mentioned, most of the topics are connected in many ways, so there is not a linear way to consume the information, it’s more a choose your own adventure kind of learning. So just go at a topic and enjoy wherever your wind blows.
 
 ## Index
 Want to dive in head first? Maybe use this index:
