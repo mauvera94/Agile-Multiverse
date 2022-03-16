@@ -45,3 +45,4 @@ Agile_Multiverse/templates/note template.md
 .obsidian/plugins/sliding-panes-obsidian/main.js
 *.css
 .obsidian/plugins/table-editor-obsidian/main.js
+/.obsidian/plugins/smart-random-note/**
