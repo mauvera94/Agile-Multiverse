@@ -21,7 +21,7 @@ Want to dive in head first? Maybe use this index:
 
 ## Caveats
 1. Just as Agile products, this new way to see Agile is not intended as a one-time only project, but as a continuous and evolving effort. Adding new information, connections and maintaining the multiverse. _The multiverse will never be completed. It will continue to grow as long as there is information left in the world_.
-2. Essentially, these notes are **written for me, by me**. They reflect my environment, context, bias, culture, interests, mental models, filters and **should not be confused as verbatim/summary of the primary sources** I'm sharing them here in the interest sharing knowledge. If they add value to someone else from reading them, it's a bonus.
+2. Essentially, these notes are **written for me, by me**. They reflect my environment, context, bias, culture, interests, mental models, filters and **should not be confused as verbatim/summary of the primary sources**. I'm sharing them here in the interest sharing knowledge. If they add value to someone else from reading them, it's a bonus.
 3. They are not comprehensive set of insights  around any topic. They are just a collection of what I found in that moment.
 4. Credit where credit is due, I am standing on the shoulders of giants and I'll do my best to always link to the primary sources I use. If you want to learn that topic, I urge you to use those resources.
 

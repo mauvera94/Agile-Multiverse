@@ -1,7 +1,7 @@
 # Scrum artifacts
 #WIP 
 
-Represent work or value.
+Represent work or value [^1].
 
 Designed to maximize transparency ([[Scrum pillar of transparency]]).
 
@@ -12,3 +12,5 @@ Each artifact contains a commitment:
 - For the [[Increment of value]] it is the [[Definition of Done]].
 
 The commitments reinforce [[empiricism]] and the [[Scrum values]].
+
+[^1]: [Scrum Artifacts](https://scrumguides.org/scrum-guide.html#scrum-artifacts)

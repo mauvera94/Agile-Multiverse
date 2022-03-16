@@ -17,7 +17,7 @@ During the Sprint:
 - No changes are made that would endanger the [[Sprint Goal]]
 - Quality does not decrease
 - The [[Product Backlog]] is refined as needed
-- [[Scope]] ([[Sprint Backlog]]) may be clarified and renegotiated with the [[Product Owner]] as more is learned
+- [[Scope]] ([[Sprint Backlog]]) may be clarified and renegotiated with the [[Product Owner]] as more is learned (No adding new items in the middle of the sprint)
 
 
 The smaller time frame of Sprints aides on: 
