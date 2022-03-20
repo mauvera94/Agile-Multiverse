@@ -3,7 +3,7 @@
 
 Sprint Planning initiates the [[Sprint]]. Devising a plan of the work to be performed for the [[Sprint]] is created by **the entire [[Scrum Team]]** [^1]. They may also invite other people to attend Sprint Planning to provide advice or input (but only if they have value to add to the discussion).
 
-The planning should consider their context, capacity, complexity, skills, tools, priority, [[technical debt]], past performance, [[Definition of Done]]... and/or anything the team learned in the last [[Sprint Retrospective]].
+The planning should consider their context, capacity, complexity, skills, tools, priority, [[technical debt]], past performance, [[Definition of Done (Scrum)]]... and/or anything the team learned in the last [[Sprint Retrospective]].
 
 Sprint Planning is [[time-box]] to a maximum of **eight hours**.
 
@@ -34,7 +34,7 @@ The [[Scrum Team]] may clarify/refine these items during this process, which inc
 #### How will the chosen work get done?
 _Plan for delivering the selected items_
 
-For each selected [[Product Backlog]] item, _the [[Developers (Scrum)]] plan the work/activities_ necessary to create an [[Increment of value]] that meets the [[Definition of Done]]. 
+For each selected [[Product Backlog]] item, _the [[Developers (Scrum)]] plan the work/activities_ necessary to create an [[Increment of value]] that meets the [[Definition of Done (Scrum)]]. 
 
 _How this is done is at the sole discretion of the Developers_. No one else tells them how to turn [[Product Backlog]] items into an [[Increment of value]] (See: [[Respect]] and [[Knowledge Work]]).
 

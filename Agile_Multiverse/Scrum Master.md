@@ -8,7 +8,7 @@ Also, accountable for the [[Scrum Team]]’s _effectiveness_. By enabling them t
 
 ### Serving the [[Scrum Team]]
 - Coaching in [[self-management ]]and cross-functionality (See: [[cross-functional]])
-- Helping [[focus]] on creating high-value [[Increment of value]] that meet the [[Definition of Done]]
+- Helping [[focus]] on creating high-value [[Increment of value]] that meet the [[Definition of Done (Scrum)]]
 - Causing the removal/solving [[impediments]] to the [[Scrum Team]]’s progress (If exist, the Scrum Master is the owner of the [[Impediment board]])
 - Ensuring that all [[Scrum events]] take place and are positive, productive, and kept within the [[time-box]]
 

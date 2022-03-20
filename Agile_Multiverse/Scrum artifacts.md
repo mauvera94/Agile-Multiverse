@@ -9,7 +9,7 @@ Each artifact contains a commitment:
 
 - For the [[Product Backlog]] it is the [[Product Goal]].
 - For the [[Sprint Backlog]] it is the [[Sprint Goal]].
-- For the [[Increment of value]] it is the [[Definition of Done]].
+- For the [[Increment of value]] it is the [[Definition of Done (Scrum)]].
 
 The commitments reinforce [[empiricism]] and the [[Scrum values]].
 

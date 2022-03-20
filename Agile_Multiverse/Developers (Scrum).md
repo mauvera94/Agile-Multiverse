@@ -6,7 +6,7 @@ Anyone in the [[Scrum Team]] **committed** for creating any aspect of usable [[I
 
 Developers are _accountable_ for:
 - Creating a plan for the [[Sprint]], the [[Sprint Backlog]] (See: [[Self management]])
-- Instilling quality by adhering to a [[Definition of Done]]
+- Instilling quality by adhering to a [[Definition of Done (Scrum)]]
 - Adapting their plan each day toward the [[Sprint Goal]] (See: [[Scrum pillar of adaptation]])
 - Holding each other accountable as professionals
 

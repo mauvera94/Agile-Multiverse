@@ -8,7 +8,7 @@ The [[Scrum Team]] inspects how the last [[Sprint]] went with regards to:
 - Interactions
 - Processes
 - Tools
-- [[Definition of Done]]
+- [[Definition of Done (Scrum)]]
 - Any elements of their work
 
 A _good_ retrospective should follow the [[Prime Directive]]
