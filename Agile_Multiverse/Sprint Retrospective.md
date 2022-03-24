@@ -1,5 +1,5 @@
 # Sprint Retrospective
-#WIP 
+#practice 
 
 The purpose of the Sprint Retrospective is to _plan ways to increase quality and effectiveness_ for the next [[Sprint]].[^1]
 
@@ -27,3 +27,7 @@ The Sprint Retrospective concludes the [[Sprint]]. It is [[time-box]] to a maxim
 The Sprint Retrospective is the materialization of the Agile Principle of [[At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly]]
 
 [^1]: [Sprint Retrospective](https://scrumguides.org/scrum-guide.html#sprint-retrospective)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Sprint Retrospective.md>)

@@ -1,5 +1,5 @@
 # Sprint [^1]
-#WIP 
+#practice 
 
 A sprint (also known as _iteration_) is a [[time-box]]ed effort: A fixed length time for achieve a [[Sprint Goal]], of one month or less (Usually 2 weeks).
 
@@ -37,3 +37,7 @@ Various practices exist to forecast progress (these do not replace the importanc
 The [[Product Owner]] could cancel a Sprint if the [[Sprint Goal]] becomes obsolete.
 
 [^1]: [The Sprint](https://scrumguides.org/scrum-guide.html#the-sprint)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Sprint.md>)

@@ -13,3 +13,7 @@ If a [[Product Backlog]] item does not meet the Definition of Done, it:
 All the [[Developers (Scrum)]] working in a product define and follow the same Definition of Done, and should (as minimum) include any standard quality requirements an organization  has.
 
 [^1]:  [Increment](https://scrumguides.org/scrum-guide.html#increment)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Definition of Done (Scrum).md>)

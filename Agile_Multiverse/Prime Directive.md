@@ -1,5 +1,5 @@
 # Prime Directive
-#WIP 
+#practice 
 
 The purpose of the _Prime Directive_ is to assure that a retrospective has the **right culture to make it a positive and result oriented event** [^1] (See: [[Psychological safety]]).
 
@@ -7,7 +7,11 @@ It makes a retrospectives become an effective space to learn and find solutions 
 
   
 > **"Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand."**
--Norm Kerth, 
+-Norm Kerth
 
 [^1]: [The Prime Directive](https://retrospectivewiki.org/index.php?title=The_Prime_Directive)
 [^2]: [Project Retrospectives: A Handbook for Team Review](https://www.goodreads.com/book/show/20571367-project-retrospectives?from_search=true&from_srp=true&qid=U1Ja6tQmZ5&rank=1)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Prime Directive.md>)

@@ -12,3 +12,7 @@ _Refining_ the Product Backlog (add details, such as a description, order, and s
 Product Backlog items that can be Done (Bring to [[Definition of Done (Scrum)]]) by the [[Scrum Team]] within one [[Sprint]] are deemed ready for selection (See [[Definition of Ready]]) in the [[Sprint Planning]] event.
 
 [^1]: [Product Backlog](https://scrumguides.org/scrum-guide.html#product-backlog)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Product Backlog.md>)

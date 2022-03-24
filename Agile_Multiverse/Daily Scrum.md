@@ -1,5 +1,5 @@
 # Daily Scrum
-#WIP 
+#practice 
 
 Is a 15-minute [[time-box]] event **for the [[Developers (Scrum)]]**[^1]. It focuses on progress toward the [[Sprint Goal]] ([[Focus]]) and produces an actionable plan for the next day of work ([[Self management]]).
 
@@ -14,3 +14,7 @@ The purpose of the Daily Scrum is to _inspect ([[Scrum pillar of inspection]]) p
 The Daily Scrum is not/should not be the only time [[Developers (Scrum)]] are allowed to adapt or re-plan the rest of the work. They often meet throughout the day and actively collaborate (preferably with face-to-face conversations).
 
 [^1]:[Daily Scrum](https://scrumguides.org/scrum-guide.html#daily-scrum)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Daily Scrum.md>)

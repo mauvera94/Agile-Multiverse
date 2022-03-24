@@ -1,5 +1,5 @@
 # Sprint Review
-
+#practice 
 
 The [[Scrum Team]] presents the results of their work in the [Sprint] to key [[stakeholders]], progress toward the [[Product Goal]] is discussed [^1] ([[Openness]]).
 
@@ -12,3 +12,7 @@ The purpose of the Sprint Review is to inspect ([[Scrum pillar of inspection]]) 
 Together [[Scrum Team]] and [[stakeholders]] review what has changed in their environment, and collaborate on what to do next. The [[Product Backlog]] may also be adjusted to meet new opportunities.
 
 [^1]:https://scrumguides.org/scrum-guide.html#sprint-review
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Sprint Review.md>)

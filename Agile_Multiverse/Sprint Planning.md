@@ -1,5 +1,5 @@
 # Sprint Planning
-#WIP 
+#practice 
 
 Sprint Planning initiates the [[Sprint]]. Devising a plan of the work to be performed for the [[Sprint]] is created by **the entire [[Scrum Team]]** [^1]. They may also invite other people to attend Sprint Planning to provide advice or input (but only if they have value to add to the discussion).
 
@@ -39,3 +39,7 @@ For each selected [[Product Backlog]] item, _the [[Developers (Scrum)]] plan the
 _How this is done is at the sole discretion of the Developers_. No one else tells them how to turn [[Product Backlog]] items into an [[Increment of value]] (See: [[Respect]] and [[Knowledge Work]]).
 
 [^1]: [Sprint Planning](https://scrumguides.org/scrum-guide.html#sprint-planning)
+
+
+> [!info]+ Share the knowledge on GitHub
+> [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Sprint Planning.md>)

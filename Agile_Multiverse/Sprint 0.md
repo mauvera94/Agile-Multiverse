@@ -15,5 +15,5 @@ The concept distorts the true reasons to do a [[Sprint]]: An [[Sprint]] **always
 A _Sprint 0_ doesn't generate an [[Increment of value]] or goes after a [[Sprint Goal]], thus is just [[waste]].
 
 
-> [!info]
+> [!info]+ Share the knowledge on GitHub
 > [<button>⬇ Download this vault</button>](https://github.com/mauvera94/Agile-Multiverse) [<button> ✎ Submit an issue</button>](https://github.com/mauvera94/Agile-Multiverse/issues) [<button> ☞ See this note on GitHub</button>](<https://github.com/mauvera94/Agile-Multiverse/blob/main/Agile_Multiverse/Sprint 0.md>)
