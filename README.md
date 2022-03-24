@@ -1,3 +1,6 @@
+---
+publish: false
+---
 # Agile-Multiverse
 
 Welcome to my digital notebook.
