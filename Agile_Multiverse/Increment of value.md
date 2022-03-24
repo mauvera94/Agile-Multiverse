@@ -1,7 +1,9 @@
 # Increment of value
 #WIP 
 
-A concrete stepping stone toward the Product Goal [^1]
+A concrete stepping stone toward the [[Product Goal]] [^1]
+
+An increment is a [[Product Backlog]] item when it meets the [[Definition of Done (Scrum)]].
 
 Each Increment is _additive to all prior Increments_. All Increments work together. The Increment must be usable.
 
