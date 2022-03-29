@@ -46,3 +46,4 @@ Agile_Multiverse/templates/note template.md
 *.css
 .obsidian/plugins/table-editor-obsidian/main.js
 /.obsidian/plugins/smart-random-note/**
+.obsidian/plugins/obsidian-advanced-uri/main.js
