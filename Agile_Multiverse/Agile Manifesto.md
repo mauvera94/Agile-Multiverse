@@ -18,7 +18,7 @@ Our **highest priority** is to satisfy the customer through _early and continuou
 
 **Deliver working software frequently**, from a couple of weeks to a couple of months, with a preference to the shorter timescale
 
-Business people and developers must **work together** daily throughout the project
+Business people and developers must **work together** daily throughout the [[project]]
 
 Build projects around **motivated individuals**. Give them the environment and support they need, and trust them to get the job done
 

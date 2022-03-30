@@ -9,7 +9,7 @@ will result in the reduced ability to modify or maintain that code in the future
 
 Technical debt tends to compound from release to release,
 
-Often ignored by the [[business]] and [[traditional projects]] measurements of whether a project is only on [[time]] and on [[budget]]. And left to accumulate thanks to the [[project-end fallacy]].
+Often ignored by the [[business]] and [[traditional projects]] measurements of whether a [[project]] is only on [[time]] and on [[budget]]. And left to accumulate thanks to the [[project-end fallacy]].
 
 
 Advantage Time to market 
