@@ -1,3 +1,5 @@
+_Works better in desktop or tablet_
+
 # About this multiverse
 
 Welcome to the bast multiverse of Agile... Welcome to my digital notebook.
