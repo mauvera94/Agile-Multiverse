@@ -8,7 +8,7 @@ They start immediately after the conclusion of the previous Sprint.
 All the work necessary to achieve the [[Product Goal]] happen inside Sprints, including (the four formal events for inspection ([[Scrum pillar of inspection]]) and adaptation ([[Scrum pillar of adaptation]])):
 
 - [[Sprint Planning]]
-- [[Daily Scrum]]s
+- [[Daily Scrum|Daily Scrums]]
 - [[Sprint Review]]
 - [[Sprint Retrospective]]
 
